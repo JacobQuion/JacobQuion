@@ -2,6 +2,7 @@
 
 I'm a UC Berkeley freshman exploring Agentic AI and LLMs. I'm especially interested in full-stack development and thoughtful UI/UX. View my projects on my [personal website](https://jacob-quion.vercel.app/)!
 
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
