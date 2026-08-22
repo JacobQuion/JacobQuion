@@ -22,6 +22,6 @@ I'm a UC Berkeley freshman exploring Agentic AI and LLMs. I'm especially interes
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
   <img src="https://cdn.simpleicons.org/anthropic/D97757" width="40" height="40" alt="Claude"/>
-  <img src="https://cdn.simpleicons.org/openai/000000" width="40" height="40" alt="ChatGPT"/>
+  <img src="https://cdn.simpleicons.org/openai" width="40" height="40" alt="ChatGPT"/>
   <img src="https://cdn.simpleicons.org/deepseek/4D6BFE" width="40" height="40" alt="DeepSeek"/>
 </p>
