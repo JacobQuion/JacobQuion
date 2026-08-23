@@ -1,6 +1,6 @@
 ## 🌎 Hello, World!
 
-I'm a UC Berkeley freshman exploring Agentic AI and LLMs. I'm especially interested in full-stack development and thoughtful UI/UX. View my projects on my [personal website](https://jacob-quion.vercel.app/)!
+I'm a UC Berkeley freshman exploring [Agentic AI and LLMs](https://jacob-quion.vercel.app/). I'm especially interested in full-stack development and thoughtful UI/UX. When I'm not vibecoding, you'll find me lifting weights or at a Filipino restaurant.
 
 ## 📚 Tech Stack
 
