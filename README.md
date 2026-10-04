@@ -1,6 +1,6 @@
 ## 🌎 Hello, World!
 
-I'm a UC Berkeley freshman exploring everything from [Agentic AI to iOS](https://jacob-quion.vercel.app/). When I'm not at my desk, you'll find me lifting weights or enjoying Filipino food.
+I'm a UC Berkeley freshman exploring everything from [iOS to AI Agents](https://jacob-quion.vercel.app/). When I'm not at my desk, you'll find me lifting weights or enjoying Filipino food.
 
 ## 📚 Tech Stack
 
