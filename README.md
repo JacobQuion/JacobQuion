@@ -1,6 +1,6 @@
 ## 🌎 Hello, World!
 
-I'm a UC Berkeley freshman exploring [Agentic AI and iOS](https://jacob-quion.vercel.app/). I'm especially interested in Frontend Engineering and thoughtful UI/UX. When I'm not at my desk, you'll find me lifting weights or enjoying Filipino food.
+I'm a UC Berkeley freshman exploring the fullstack of computing from [Agentic AI to iOS](https://jacob-quion.vercel.app/). When I'm not at my desk, you'll find me lifting weights or enjoying Filipino food.
 
 ## 📚 Tech Stack
 
