@@ -1,6 +1,6 @@
 ## 🌎 Hello, World!
 
-Hi! I'm a UC Berkeley freshman working across the tech stack, from [UI/UX to AI Agents]((https://jacob-quion.vercel.app/)). I also enjoy photography and playing basketball.
+Hi! I'm a UC Berkeley freshman working across the tech stack, from [UI/UX to AI agents](https://jacob-quion.vercel.app/). I also enjoy photography and playing basketball.
 
 ## 📚 Tech Stack
 
