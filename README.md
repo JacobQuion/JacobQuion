@@ -2,7 +2,7 @@
 
 Hi! I'm a UC Berkeley freshman working across the full stack of computing, from [UI/UX to AI agents](https://jacob-quion.vercel.app/). I also enjoy photography and playing basketball.
 
-## 📚 Tech Stack
+## 📚 Software Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
